@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch CrawlMain",
+            "request": "launch",
+            "mainClass": "crawl.CrawlMain",
+            "projectName": "Web_Crawler_552dc3b9"
+        },
+        {
+            "type": "java",
+            "name": "Launch LeHoiCrawl",
+            "request": "launch",
+            "mainClass": "writejson.LeHoiCrawl",
+            "projectName": "Web_Crawler_552dc3b9"
+        },
+        {
+            "type": "java",
+            "name": "Launch SuKienCrawl",
+            "request": "launch",
+            "mainClass": "writejson.SuKienCrawl",
+            "projectName": "Web_Crawler_552dc3b9"
+        },
+        {
+            "type": "java",
+            "name": "Launch TrangNguyenCrawl",
+            "request": "launch",
+            "mainClass": "writejson.TrangNguyenCrawl",
+            "projectName": "Web_Crawler_552dc3b9"
+        },
+        {
+            "type": "java",
+            "name": "Launch TrieuDaiCrawl",
+            "request": "launch",
+            "mainClass": "writejson.TrieuDaiCrawl",
+            "projectName": "Web_Crawler_552dc3b9"
+        },
+        {
+            "type": "java",
+            "name": "Launch DiTichCrawl",
+            "request": "launch",
+            "mainClass": "writejson.DiTichCrawl",
+            "projectName": "Web_Crawler_552dc3b9"
+        },
+        {
+            "type": "java",
+            "name": "Launch VuaCrawl",
+            "request": "launch",
+            "mainClass": "writejson.VuaCrawl",
+            "projectName": "Web_Crawler_552dc3b9"
+        },
+        {
+            "type": "java",
+            "name": "Launch test5",
+            "request": "launch",
+            "mainClass": "test5",
+            "projectName": "Web_Crawler_552dc3b9"
+        },
+        {
+            "type": "java",
+            "name": "Launch test4",
+            "request": "launch",
+            "mainClass": "test4",
+            "projectName": "Web_Crawler_552dc3b9"
+        },
+        {
+            "type": "java",
+            "name": "Launch test3",
+            "request": "launch",
+            "mainClass": "test3",
+            "projectName": "Web_Crawler_552dc3b9"
+        },
+        {
+            "type": "java",
+            "name": "Launch test2",
+            "request": "launch",
+            "mainClass": "test2",
+            "projectName": "Web_Crawler_552dc3b9"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Web_Crawler_552dc3b9"
+        },
+        {
+            "type": "java",
+            "name": "Launch Search",
+            "request": "launch",
+            "mainClass": "javafx.Search",
+            "projectName": "Web_Crawler_552dc3b9"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReadJsonFile",
+            "request": "launch",
+            "mainClass": "readjson.ReadJsonFile",
+            "projectName": "Web_Crawler_552dc3b9"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "Web_Crawler_552dc3b9"
+        },
+        {
+            "type": "java",
+            "name": "Launch TrieuDaiVietNamCrawler",
+            "request": "launch",
+            "mainClass": "writejson.TrieuDaiVietNamCrawler",
+            "projectName": "Web_Crawler_552dc3b9"
+        },
+        {
+            "type": "java",
+            "name": "Launch WriteJSONFile",
+            "request": "launch",
+            "mainClass": "writejson.WriteJSONFile",
+            "projectName": "Web_Crawler_552dc3b9"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+
+`	java:S112)"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(Ê…áì
+F
+java:S1068"+Remove this unused "diaDiem" private field.(©Í ‰øÿÿÿÿ
+H
+java:S1068"-Remove this unused "gioiThieu" private field.(³µÜ«ûÿÿÿÿ
+C
+java:S1068"-Remove this unused "tenDiTich" private field.(´ïÓº
+E
+java:S1068"/Remove this unused "soQuyetDinh" private field.(´¸Õª
+F
+java:S1068"+Remove this unused "noiDung" private field.(íÛâÒÿÿÿÿÿ
